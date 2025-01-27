@@ -1,5 +1,5 @@
 # GameDesign
-Game design for "My Pet" interactive pet game
+Game design for "My Pal" interactive pet game
 <!DOCTYPE html>
 <html lang="en">
 <head>
